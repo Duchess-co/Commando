@@ -1,5 +1,6 @@
 # Commando
 > Commando Discord bot built on discord.js-commando.
+[![Run on Repl.it](https://repl.it/badge/github/WeebDev/Commando)](https://repl.it/github/WeebDev/Commando)
 
 ## Contributing
 
